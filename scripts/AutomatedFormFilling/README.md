@@ -7,7 +7,7 @@ Code example showing how to use the **Gaffa Browser Request API** to:
 - **Fill & submit** the form in a real browser session using `type` + `click`
 - **Capture a screenshot** after submission
 
-This is designed automation workflows where you want **schema‑driven extraction** plus a simple **human‑in‑the‑loop** data entry step.
+This is designed automation workflows where you want **schema‑driven extraction** plus a simple **human‑in‑the‑loop** data entry step. For more information, read the [accompanying blog post](https://gaffa.dev/blog/turn-web-content-into-structured-data-with-gaffas-parse_json-action).
 
 ## Files
 

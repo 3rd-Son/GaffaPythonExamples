@@ -1,6 +1,6 @@
 # Gaffa Table Scraper
 
-Code examples for the blog post **"How to Scrape a Table with Python (The Easy Way)"** using the [Gaffa Browser Request API](https://gaffa.dev).
+Code examples for the blog post **["How to Scrape a Table with Python (The Easy Way)"](https://gaffa.dev/blog/how-to-scrape-a-table-with-python-(the-easy-way))** using the [Gaffa Browser Request API](https://gaffa.dev).
 
 ## Files
 
