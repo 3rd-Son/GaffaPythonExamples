@@ -1,9 +1,9 @@
+import os
+
 import requests
 
 # Configuration
-GAFFA_API_KEY = (
-    "sk_live_a1c8581d-39b1-433a-b0ef-928f8e577367"  # Replace with your actual API key
-)
+GAFFA_API_KEY = os.environ["GAFFA_API_KEY"]
 GAFFA_API_URL = "https://api.gaffa.dev/v1/browser/requests"
 FORM_URL = "https://demo.gaffa.dev/simulate/form?loadTime=3&showModal=true&modalDelay=5&formType=address"
 
